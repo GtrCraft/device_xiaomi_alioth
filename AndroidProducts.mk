@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_alioth.mk
+    $(LOCAL_DIR)/octavi_alioth.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_alioth-user \
-    arrow_alioth-userdebug \
-    arrow_alioth-eng
+    octavi_alioth-user \
+    octavi_alioth-userdebug \
+    octavi_alioth-eng
